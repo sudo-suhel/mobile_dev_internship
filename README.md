@@ -1,2 +1,2 @@
-# mobile_dev_internship
+# Mobile Development
 Mobile Development Internship Program
